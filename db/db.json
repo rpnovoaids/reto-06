@@ -1,0 +1,27 @@
+[
+  {
+    "username": "John",
+    "email": "example1@codigo.edu.pe",
+    "password": "123456"
+  },
+  {
+    "username": "Robert",
+    "email": "example2@codigo.edu.pe",
+    "password": "123456"
+  },
+  {
+    "username": "Luis",
+    "email": "example3@codigo.edu.pe",
+    "password": "123456"
+  },
+  {
+    "username": "Pedro",
+    "email": "example4@codigo.edu.pe",
+    "password": "123456"
+  },
+  {
+    "username": "Juan",
+    "email": "example5@codigo.edu.pe",
+    "password": "123456"
+  }
+]
